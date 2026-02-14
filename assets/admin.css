@@ -1,0 +1,17 @@
+body.term-php #edittag
+{
+    max-width: 100%;
+}
+
+body.term-php .form-table th
+{
+    display: block;
+    width: 100%;
+}
+
+body.term-php .form-table td
+{
+    display: block;
+    width: 100%;
+    padding: 0;
+}
