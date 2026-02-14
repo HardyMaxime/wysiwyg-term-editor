@@ -1,0 +1,7 @@
+{
+  "name": "hardymaxime/wysiwyg-term-editor",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^2.0"
+  }
+}
